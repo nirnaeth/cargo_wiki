@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem "jquery-rails"
+gem "jquery-rails", '~>2.2.1'
 gem "haml-rails"
 gem "sass-rails"
 gem "compass-rails"

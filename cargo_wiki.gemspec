@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.test_files = Dir["{spec, features}/**/*"]
 
   s.add_dependency "rails", "~> 3.2.1"
-  s.add_dependency "jquery-rails"
+  s.add_dependency "jquery-rails", '~> 2.2.1'
   s.add_dependency "haml-rails"
   s.add_dependency "sass-rails"
   s.add_dependency "compass-rails"
